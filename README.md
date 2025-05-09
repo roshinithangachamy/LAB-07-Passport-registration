@@ -1,10 +1,10 @@
 # LAB-07-Passport-registration
 ### DATE:01/05/2025
-### AIM-
+### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a
 Passport Registration System.
 
-### PROBLEM STATEMENT-
+### PROBLEM STATEMENT:
 To create a new online system to streamline application, secure data, improve efficiency for staff, and provide real-time updates for applicants.
 
 ### OVERALL DESCRIPTION:
